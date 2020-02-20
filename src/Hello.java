@@ -7,5 +7,6 @@ public class Hello {
         System.out.println("Hello World");
         System.out.println("From Dev branch");
     System.out.println("Commit1");
+    System.out.println("Commit1");
     }
 }
