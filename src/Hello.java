@@ -6,5 +6,6 @@ public class Hello {
     {
         System.out.println("Hello World");
         System.out.println("From Dev branch");
+    System.out.println("From origin master");
     }
 }
